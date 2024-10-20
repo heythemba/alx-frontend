@@ -7,10 +7,10 @@ body,a {
 
 
 
-visually-hidden {
+.visually-hidden {
         display: none;
 }
 
-card-category, section-tagline {
+.card-category, s.card-category {
         color: #D73953;
 }
