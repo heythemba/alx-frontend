@@ -60,11 +60,11 @@ a[href] {
 }
 
 a:visited{
-        text-decoration: italic;
+        font-style: italic;
 }
 
 a:hover{
-        text-decoration: underline;
+        font-style: underline;
 }
 
 a:active{
