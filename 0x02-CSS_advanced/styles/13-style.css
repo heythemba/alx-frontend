@@ -54,7 +54,7 @@ body, a {
         line-height: var(--line-height-base);
 }
 
-a {
+a[href] {
         text-decoration: none;
         
 }
